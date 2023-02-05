@@ -1,1 +1,2 @@
-# prototype
+# Prototype for alumni portal
+
